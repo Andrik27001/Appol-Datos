@@ -1,0 +1,57 @@
+﻿Continente_Fk,País,País_Pk
+1,Angola,AGO
+1,Argelia,DZA
+1,Camerún,CMR
+1,Egipto,EGY
+1,Kenia,KEN
+1,Nigeria,NGA
+1,Sudáfrica,ZAF
+1,Sudán,SDN
+1,Tanzania,TZA
+2,Argentina,ARG
+2,Brasil,BRA
+2,Canadá,CAN
+2,Chile,CHL
+2,Colombia,COL
+2,Costa Rica,CRI
+2,Ecuador,ECU
+2,Estados Unidos,USA
+2,Guatemala,GTM
+2,México,MEX
+2,Perú,PER
+2,República Dominicana,DOM
+2,Venezuela,VEN
+3,Australia,AUS
+3,Nueva Zelanda,NZL
+4,Alemania,DEU
+4,Austria,AUT
+4,Bélgica,BEL
+4,Eslovaquia,SVK
+4,España,ESP
+4,Finlandia,FIN
+4,Francia,FRA
+4,Grecia,GRC
+4,Hungría,HUN
+4,Irlanda,IRL
+4,Italia,ITA
+4,Noruega,NOR
+4,Polonia,POL
+4,Portugal,PRT
+4,Reino Unido,GBR
+4,República Checa,CZE
+4,Suecia,SWE
+4,Suiza,CHE
+4,Ucrania,UKR
+5,China,CHN
+5,Filipinas,PHL
+5,India,IND
+5,Indonesia,IDN
+5,Irán,IRN
+5,Israel,ISR
+5,Japón,JPN
+5,Malasia,MYS
+5,República de Corea,KOR
+5,Rusia,RUS
+5,Tailandia,THA
+5,Turquía,TUR
+5,Yemen,YEM
